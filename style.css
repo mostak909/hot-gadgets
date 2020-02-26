@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    background-color: bisque;
+}
+section {
+    height: 700px;
+    
+}
+.card {
+    margin-right: 80px;
+    text-align: center;
+}
+.card {
+    -webkit-box-shadow: 10px 10px 40px grey;
+    box-shadow: 10px 10px 40px grey;
+    height: 70%;
+    text-align: justify;
+    padding-right: 2%;
+}
+footer p {
+    font-size: 16px;
+    color: skyblue;
+    font-weight: bold;
+    text-align: center;
+}
